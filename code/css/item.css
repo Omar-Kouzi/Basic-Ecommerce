@@ -1,0 +1,15 @@
+.itempage-container{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding-bottom: 10px;
+}
+.itemimg-page{
+  width: 100vw;
+  height: 50vh;
+}
+.itemprice-page{
+display: flex;
+gap: 20px;
+align-items: center;
+}

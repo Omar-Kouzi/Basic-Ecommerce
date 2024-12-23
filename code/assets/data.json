@@ -1,0 +1,308 @@
+[
+    {
+        "id": 1,
+        "title": "Black Aud",
+        "description": "A luxurious and enigmatic fragrance with rich oud and a touch of spice, perfect for a bold and sophisticated scent.",
+        "price": "100.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Masculine",
+        "obtained": "true"
+    },
+    {
+        "id": 2,
+        "title": "Blue Channel",
+        "description": "A sophisticated and timeless fragrance blending citrus, floral, and woody notes, ideal for both day and night wear.",
+        "price": "39.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Masculine",
+        "obtained": "true"
+    },
+    {
+        "id": 3,
+        "title": "Instant Crush",
+        "description": "An enchanting floral fragrance with a captivating allure.",
+        "price": "69.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Masculine",
+        "obtained": "true"
+    },
+    {
+        "id": 4,
+        "title": "Sauvage",
+        "description": "A fresh and invigorating fragrance inspired by nature, blending citrus, aromatic herbs, and warm woods for the adventurous spirit.",
+        "price": "29.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Masculine",
+        "obtained": "false"
+    },
+    {
+        "id": 5,
+        "title": "Midnight Whisper",
+        "description": "An alluring and mysterious scent perfect for evening wear.",
+        "price": "55.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Masculine",
+        "obtained": "false"
+    },
+    {
+        "id": 6,
+        "title": "Radiant Essence",
+        "description": "Bright and refreshing with invigorating citrus notes, ideal for daily wear.",
+        "price": "60.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 7,
+        "title": "Velvet Dream",
+        "description": "A smooth and opulent fragrance that captivates with its rich and luxurious aura.",
+        "price": "70.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Masculine",
+        "obtained": "false"
+    },
+    {
+        "id": 8,
+        "title": "Mystic Aura",
+        "description": "An intriguing blend of exotic spices and delicate floral notes, perfect for the mysterious and sophisticated.",
+        "price": "65.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Masculine",
+        "obtained": "false"
+    },
+    {
+        "id": 9,
+        "title": "Golden Elixir",
+        "description": "A luxurious and warm fragrance that envelops with its rich and comforting essence.",
+        "price": "80.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Masculine",
+        "obtained": "false"
+    },
+    {
+        "id": 10,
+        "title": "Crystal Dawn",
+        "description": "Fresh and crisp like a dewy morning, perfect for a refreshing start to the day.",
+        "price": "45.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 11,
+        "title": "Celestial Garden",
+        "description": "A heavenly bouquet of floral notes that exudes elegance and grace.",
+        "price": "75.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 12,
+        "title": "Luminous Dew",
+        "description": "Light and refreshing with aquatic accords, reminiscent of a serene and fresh morning by the water.",
+        "price": "50.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 13,
+        "title": "Twilight Serenade",
+        "description": "Romantic and soothing, evoking a sense of calm and serenity for enchanting evenings.",
+        "price": "85.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 14,
+        "title": "Amber Mist",
+        "description": "Warm and inviting with notes of amber and vanilla, creating a cozy and comforting ambiance.",
+        "price": "90.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 15,
+        "title": "Rose Quartz",
+        "description": "A delicate and romantic fragrance that captures the essence of a blooming rose garden.",
+        "price": "95.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 16,
+        "title": "Silver Veil",
+        "description": "A subtle and elegant scent that embodies refinement and sophistication.",
+        "price": "40.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 17,
+        "title": "Secret Orchid",
+        "description": "Exotic and captivating with notes of orchid, creating an alluring and mysterious allure.",
+        "price": "100.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 18,
+        "title": "Emerald Haven",
+        "description": "Fresh and invigorating with herbal undertones, reminiscent of a lush green paradise.",
+        "price": "65.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 19,
+        "title": "Moonlit Blossom",
+        "description": "A rich and deep floral scent that unfolds like a blossoming night garden under the moonlight.",
+        "price": "110.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 20,
+        "title": "Sapphire Breeze",
+        "description": "Cool and refreshing with oceanic notes, capturing the essence of a cool breeze by the sea.",
+        "price": "55.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 21,
+        "title": "Opal Glow",
+        "description": "Warm and luminous with a touch of spice, radiating a gentle yet captivating allure.",
+        "price": "70.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 22,
+        "title": "Enigma Essence",
+        "description": "A complex and intriguing fragrance that evokes curiosity and fascination with its mysterious blend.",
+        "price": "120.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 23,
+        "title": "Harmony Petal",
+        "description": "Soft and harmonious with floral notes, offering a delicate and serene experience.",
+        "price": "75.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 24,
+        "title": "Jasmine Mirage",
+        "description": "Sweet and exotic with the essence of jasmine, transporting you to a distant and magical oasis.",
+        "price": "80.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 25,
+        "title": "Blissful Mist",
+        "description": "Light and airy with a hint of sweetness, creating a joyful and uplifting ambiance.",
+        "price": "60.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 26,
+        "title": "Tranquil Charm",
+        "description": "Calming and soothing with lavender, offering a sense of tranquility and relaxation.",
+        "price": "50.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 27,
+        "title": "Floral Symphony",
+        "description": "A vibrant blend of various flowers, creating a symphony of floral notes that celebrates nature's beauty.",
+        "price": "85.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 28,
+        "title": "Mystic Rose",
+        "description": "A deep and mysterious rose fragrance that captivates with its timeless elegance and allure.",
+        "price": "95.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 29,
+        "title": "Serenity Aura",
+        "description": "Peaceful and calm with soft floral notes.",
+        "price": "45.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 30,
+        "title": "Pure Enchantment",
+        "description": "Enchanting and magical with a touch of vanilla.",
+        "price": "90.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 31,
+        "title": "Exotic Euphoria",
+        "description": "Bold and exciting with exotic spices.",
+        "price": "110.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "false"
+    },
+    {
+        "id": 32,
+        "title": "Whispering Woods",
+        "description": "Earthy and woody with a hint of moss.",
+        "price": "100.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Masculine",
+        "obtained": "false"
+    },
+    {
+        "id": 33,
+        "title": "Eternal Bloom",
+        "description": "Everlasting floral fragrance.",
+        "price": "105.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Feminine",
+        "obtained": "false"
+    },
+    {
+        "id": 34,
+        "title": "Lemon Rose",
+        "description": "Everlasting floral fragrance.",
+        "price": "105.00",
+        "image": "https://via.placeholder.com/150",
+        "type": "Unisex",
+        "obtained": "true"
+    }
+]
